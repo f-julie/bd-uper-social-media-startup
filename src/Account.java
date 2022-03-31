@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -7,7 +8,7 @@ public class Account {
 
     public Account(AccountDetails details, Message[] messages) {
         this.details = details;
-        this.messages = Arrays.asList(messages);
+        this.messages = new ArrayList<>(Arrays.asList(messages));
     }
 
     public AccountDetails getDetails() {
