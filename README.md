@@ -10,10 +10,10 @@ Each of these methods includes a JavaDoc with the expected results of the method
 
 
 ## Starting Code
-There are a several classes and enums being used for you to peruse:
+There are several classes and enums being used for you to peruse:
 `Account, AccountDetails, Address, LoginInfo, Message, MonthEnum, StateEnum, TimeStamp`
 
-If you take the time to look through each, you may not finish your tasks. Make your own choice as to how thoroughly you will look through each class.
+If you take the time to look through each in depth, you may spend too long on your tasks. Make your own choice as to how thoroughly you will look through each class. 
 
 ## Instructions
 
