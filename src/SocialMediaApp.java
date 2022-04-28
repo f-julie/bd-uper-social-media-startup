@@ -9,9 +9,6 @@ public class SocialMediaApp {
      */
     public void loadDemoAccounts() {
         // TODO: Finish this method.
-
-        // Example of building a Time:
-
     }
 
     /**
